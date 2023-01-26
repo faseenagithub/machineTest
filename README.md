@@ -1,6 +1,6 @@
-Steps to install Student Management System project using LAMP
+Steps to install.
 
-step 1 : git clone https://github.com/favask/Student-Management-System.git
+step 1 : git clone https://github.com/faseenamuhammed27/machineTest.git
 
 step 2 : create a database and update DB details in .env file
 
